@@ -1,1 +1,1 @@
-# multi-omics.github.io
+# multi-omics
